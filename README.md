@@ -2,7 +2,7 @@
 
 <img src="https://github.com/pendingupdate/podcast-test/blob/d442993a13c80eeef009f8bfc218ec90be83e23e/images/artwork.jpg?raw=true" width="500">
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Bob Harris](https://github.com/pendingupdate/podcast-test/blob/d442993a13c80eeef009f8bfc218ec90be83e23e/images/artwork.jpg?raw=true).
 
 You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
 
